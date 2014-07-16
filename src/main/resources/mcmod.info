@@ -1,0 +1,16 @@
+[
+{
+  "modid": "screenshotter",
+  "name": "Screenshotter",
+  "description": "A mod that takes the lag out of screenshots and gives you the option to turn off that pesky chat message!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MrSourceCoded"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
